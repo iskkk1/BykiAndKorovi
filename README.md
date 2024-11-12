@@ -28,19 +28,3 @@
 - Для работы программы требуется .NET runtime.
 
 Автор программы: Кристина Синявская
-            // Генерация случайного числа для игры
-            int[] x = new int[4];
-            string s;
-            for (int i = 0; i < 4; i++)
-            {
-                do
-                {
-                    contains = false;
-                    x[i] = rand.Next(1, 10);
-                    for (int j = 0; j < i; j++)
-                    {
-                        if (x[j] == x[i])
-                            contains = true;
-                    }
-                } while (contains);
-            }
