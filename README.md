@@ -20,6 +20,27 @@
 3. Угадайте 4-значное число за 5 попыток.
 4. После игры программа выведет результаты и сохранит их в файл с именем `{login}_stats.txt`.
 
+'''
+            // Генерация случайного числа для игры
+            int[] x = new int[4];
+            string s;
+            for (int i = 0; i < 4; i++)
+            {
+                do
+                {
+                    contains = false;
+                    x[i] = rand.Next(1, 10);
+                    for (int j = 0; j < i; j++)
+                    {
+                        if (x[j] == x[i])
+                            contains = true;
+                    }
+                } while (contains);
+            }
+
+            s = x[0].ToString() + x[1].ToString() + x[2].ToString() + x[3].ToString();
+'''
+
 Файлы:
 - `users.txt` — файл с логинами и паролями.
 - `{login}_stats.txt` — файл с результатами игр для каждого игрока.
