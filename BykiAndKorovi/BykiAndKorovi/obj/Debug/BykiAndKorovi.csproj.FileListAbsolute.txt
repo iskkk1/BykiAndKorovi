@@ -1,0 +1,14 @@
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.exe.config
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.exe
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.pdb
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.exe
+C:\Users\Кристина\Desktop\5 семестр\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.pdb
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.exe.config
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.exe
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\bin\Debug\BykiAndKorovi.pdb
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.exe
+C:\Users\Кристина\Desktop\5 семестр\Михайлов\BykiAndKorovi\BykiAndKorovi\obj\Debug\BykiAndKorovi.pdb
